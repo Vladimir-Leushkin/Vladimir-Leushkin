@@ -10,7 +10,6 @@
 1. дипломный проект, сервис мероприятий [java-explore-with-me](https://github.com/Vladimir-Leushkin/java-explore-with-me)
 2. групповой курсовой проект, сервис для подбора фильмов [java-filmorate](https://github.com/Vladimir-Leushkin/java-filmorate)
 3. курсовой проект, сервис по прокату вещей [java-shareit](https://github.com/Vladimir-Leushkin/java-shareit)
-4. курсовой проект, менеджер задач [java-sprint2-hw](https://github.com/Vladimir-Leushkin/java-sprint2-hw)
 - 📫 Моя почта [Vleyshkin@yandex.ru](mailto:Vleyshkin@yandex.ru)
 
 ### Инструменты
