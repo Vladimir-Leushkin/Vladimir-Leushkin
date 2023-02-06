@@ -18,7 +18,7 @@
 
 ### Статистика
 <div id="stat" align="center">
-	<img height=150 width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladimir-Leushkin&theme=github_dark"/>
-	<img height=150 width=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladimir-Leushkin&theme=github_dark"/>
-	<img height=150 width=250 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vladimir-Leushkin&theme=github_dark"/>
+	<img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladimir-Leushkin&theme=github_dark"/>
+	<img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladimir-Leushkin&theme=github_dark"/>
+	<img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vladimir-Leushkin&theme=github_dark"/>
 </div>
